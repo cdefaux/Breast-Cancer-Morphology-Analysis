@@ -6,12 +6,11 @@ This project used the UCI Breast Cancer Wisconsin (Diagnostic) Data Set. The dat
 
 1) ID number
 2) Diagnosis (M = malignant, B = benign)
-3-32)
 
 Ten real-valued features are computed for each cell nucleus:
 
-a) radius (mean of distances from center to points on the perimeter)
-b) texture (standard deviation of gray-scale values)
+1. radius (mean of distances from center to points on the perimeter)
+2. texture (standard deviation of gray-scale values)
 c) perimeter
 d) area
 e) smoothness (local variation in radius lengths)
