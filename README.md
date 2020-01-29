@@ -19,3 +19,5 @@ Ten real-valued features are computed for each cell nucleus:
 8. concave points (number of concave portions of the contour)
 9. symmetry
 10. fractal dimension ("coastline approximation" - 1)
+
+To view the analysis of this dataset, open the Python file in the repository. It contains recommendations for targeting malignant breast cancer cells under the microscope. 
